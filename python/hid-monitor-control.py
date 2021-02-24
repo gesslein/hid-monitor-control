@@ -20,8 +20,8 @@ def get_input_source_table(model):
             'HDMI': 0x0400
          },
          'EV3895': {
-            'USB-C': 0x0200,
-            'DisplayPort1': 0x0300,
+            'DisplayPort': 0x0300,
+            'USB-C': 0x0301,
             'HDMI1': 0x0400,
             'HDMI2': 0x0401
          },
